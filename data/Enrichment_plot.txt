@@ -19,3 +19,7 @@ T cell differentiation 	7.5	6.48E-05	11
 negative regulation of intrinsic apoptotic signaling pathway 	7.36	0.00436	7
 negative regulation of extrinsic apoptotic signaling pathway 	7.29	0.00458	7
 regulation of intrinsic apoptotic signaling pathway 	6.94	0.000123	11
+positive regulation of lymphocyte proliferation	5.12	2.51E-02	7
+positive regulation of leukocyte proliferation	4.71	3.69E-02	7
+regulation of leukocyte proliferation	3.69	3.79E-02	9
+regulation of cell population proliferation	2.2	6.94E-04	36
