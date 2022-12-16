@@ -1,3 +1,6 @@
+#This code only work on gnv computer,mm(密码)：1 computer. 
+#los angeles computer not work on line 38 "quantContig(combined, cloneCall="gene+nt", chain = "TRA")",mm(密码)；people123 not work.
+
 #if (!require("BiocManager", quietly = TRUE))
 #  install.packages("BiocManager")
 #BiocManager::install(version = "3.14")
