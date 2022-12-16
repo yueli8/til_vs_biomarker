@@ -333,14 +333,6 @@ dbAnnotate(immdata$data, vdjdb, "CDR3.aa", "cdr3")
 dbAnnotate ( immdata $ data , mcpas , c ( "CDR3.aa" , "V.name" ), c ( "CDR3.beta.aa" , "TRBV" ))
 
 
-
-
-
-
-
-
-
-
 repClonality(immdata$data, "homeo") %>% vis() 
 repOverlap(immdata$data) %>% vis()  
 geneUsage(immdata$data[[1]]) %>% vis()
