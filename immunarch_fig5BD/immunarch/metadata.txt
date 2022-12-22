@@ -1,0 +1,9 @@
+Sample	ID	Sex	Smoke	Status	Stage
+P57_Tumor	GSM72	M	smoker	Tumor	pT3_N0
+P57_Blood	GSM73	M	smoker	Blood	pT3_N0
+P58_Tumor	GSM74	F	smoker	Tumor	pT1cNO
+P58_Blood	GSM75	F	smoker	Blood	pT1cNO
+P60_Tumor	GSM76	M	smoker	Tumor	pT2aN0
+P60_Blood	GSM78	M	smoker	Blood	pT2aN0
+P61_Tumor	GSM79	M	NA	Tumor	NA
+P61_Blood	GSM81	M	NA	Blood	NA
