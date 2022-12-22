@@ -289,3 +289,13 @@ clonalOverlay(seurat, reduction = "umap",
   guides(color = "none")
 
 
+library(ggraph)
+
+Idents(seurat) <- "seurat_clusters"
+
+clonalNetwork(seurat,
+            reduction = "umap", 
+            identity = "seurat_clusters",
+            filter.clones = NULL,
+            filter.identity = NULL,
+            cloneCall = "aa")
