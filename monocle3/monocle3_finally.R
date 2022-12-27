@@ -164,6 +164,8 @@ agg_mat <- aggregate_gene_expression(cds, gene_module, cell_group = NULL)
 row.names(agg_mat) <- stringr::str_c("Module ", row.names(agg_mat))
 p<-pheatmap::pheatmap(agg_mat, scale="column", clustering_method="ward.D2")
 p
+
+
 ##下面的代码都没有重复出来，不要做。below do not have any useful   heatmap
 library(ComplexHeatmap)
 library(ggplot2)
