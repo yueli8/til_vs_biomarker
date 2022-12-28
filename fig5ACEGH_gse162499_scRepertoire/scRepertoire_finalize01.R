@@ -191,7 +191,7 @@ seurat <- highlightClonotypes(seurat,  cloneCall= "aa", sequence = c("CALSGVTSYD
 
 DimPlot(seurat, group.by = "highlight", pt.size = 0.5)
 theme(plot.title = element_blank())
-
+#if error,change "ident" to "cluster"
 occupiedscRepertoire(seurat, x.axis = "ident")
 
 alluvialClonotypes(seurat, cloneCall = "gene", 
