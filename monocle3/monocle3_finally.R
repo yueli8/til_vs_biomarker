@@ -207,3 +207,20 @@ a2<-a1[select_gene,]
 a3<-t(a2)
 a4<-a3[,1]
 
+Track<-c("GZMA","CD8A","GZMH","CD8B","TSC22D3","CD69")
+plot_genes_in_pseudotime(cds[Track,], color_cells_by="tech", 
+                         min_expr=0.5, ncol = 2)
+
+plot_genes_in_pseudotime(cds[Track,], color_cells_by="celltype", 
+                         min_expr=0.5, ncol = 2)
+
+plot_genes_in_pseudotime(cds[Track,], color_cells_by="seurat_clusters", 
+                         min_expr=0.5, ncol = 2)
+
+plot_genes_in_pseudotime(cds[Track,], color_cells_by="assigned_cell_type", 
+                         min_expr=0.5, ncol = 2)
+
+plot_cells(cds, genes=Track, show_trajectory_graph=FALSE,
+           label_cell_groups=FALSE,  label_leaves=FALSE)
+
+p$facet$params$ncol <- 5
