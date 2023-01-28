@@ -20,7 +20,7 @@ write.table(a1,"a1_heatmap01")
 
 RidgePlot(hms_cluster_id, features = c("CD8A","CD8B","CD38","CD69","ENTPD1","GZMA","GZMH","MYO1F","SYNE1","TSC22D3","XCL2","TMSB4X"),cols = c("green3","orangered"), group.by="tech", ncol = 4) + theme(axis.title.y = element_blank())
 
-setwd("~/gse162498")
+setwd("~/gse162498/tmsb4x")
 cd38<-read.table("cd38",header=TRUE)
 expr_groups_cd38<-group_by(cd38,Identity)
 mean_cd38<-summarise(expr_groups_cd38,expr_mean=mean(Expression))
