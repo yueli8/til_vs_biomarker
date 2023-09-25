@@ -1,0 +1,27 @@
+Term	Count	FDR
+Ribosome	78	4.27522921310556E-51
+Coronavirus disease - COVID-19	81	7.16034940562036E-42
+Rheumatoid arthritis	22	1.8085336841659E-06
+Allograft rejection	13	3.21011114910931E-05
+Graft-versus-host disease	13	7.27023171230153E-05
+Inflammatory bowel disease	16	7.27023171230153E-05
+Type I diabetes mellitus	13	8.07739558598871E-05
+Antigen processing and presentation	17	0.000129738166909
+Th17 cell differentiation	19	0.000620793562065
+Hematopoietic cell lineage	18	0.000633436726183
+Viral protein interaction with cytokine and cytokine receptor	18	0.000640901416948
+Asthma	10	0.000640901416948
+Toxoplasmosis	19	0.000713624391948
+Leishmaniasis	15	0.001235281313326
+Human T-cell leukemia virus 1 infection	28	0.001413285123314
+Autoimmune thyroid disease	12	0.001905993636356
+Oxidative phosphorylation	20	0.001934850726978
+Th1 and Th2 cell differentiation	16	0.001945071879136
+Intestinal immune network for IgA production	11	0.003752355461718
+Epstein-Barr virus infection	25	0.003752355461718
+Influenza A	22	0.005435869839589
+MAPK signaling pathway	31	0.013911220587861
+TNF signaling pathway	16	0.015396409034603
+Viral myocarditis	11	0.015396409034603
+Parkinson disease	28	0.015396409034603
+Prion disease	28	0.021810334472474

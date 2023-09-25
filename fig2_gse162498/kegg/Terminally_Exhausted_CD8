@@ -1,0 +1,24 @@
+Term	Count	FDR
+Cytokine-cytokine receptor interaction	30	1.18066980609217E-07
+Viral protein interaction with cytokine and cytokine receptor	12	0.005857677593227
+MAPK signaling pathway	21	0.0079555602137
+Antigen processing and presentation	10	0.008417617451337
+Hematopoietic cell lineage	11	0.008417617451337
+Focal adhesion	16	0.008417617451337
+Malaria	8	0.008417617451337
+Amoebiasis	11	0.008417617451337
+African trypanosomiasis	7	0.008537880836572
+ECM-receptor interaction	10	0.00976430078399
+Transcriptional misregulation in cancer	15	0.00976430078399
+Rheumatoid arthritis	10	0.012387352569893
+PI3K-Akt signaling pathway	21	0.01465342147369
+Pathways in cancer	27	0.019313009742352
+Chagas disease	10	0.019313009742352
+Chemokine signaling pathway	14	0.020046567066795
+TGF-beta signaling pathway	10	0.024243077947695
+Prion disease	17	0.024243077947695
+Cell adhesion molecules	12	0.029401778289528
+Small cell lung cancer	9	0.029401778289528
+IL-17 signaling pathway	9	0.032046796069927
+Legionellosis	7	0.035493351860378
+Bladder cancer	6	0.03902711464508

@@ -1,0 +1,41 @@
+Term	Count	FDR
+Coronavirus disease - COVID-19	65	5.81541730929774E-09
+Cytokine-cytokine receptor interaction	74	4.07587164595019E-08
+Rheumatoid arthritis	31	8.88482555743375E-06
+Ribosome	45	8.88482555743375E-06
+Hematopoietic cell lineage	32	8.88482555743375E-06
+Intestinal immune network for IgA production	21	9.94053651728963E-06
+Type I diabetes mellitus	19	2.21179757175091E-05
+Inflammatory bowel disease	23	8.29981767524392E-05
+NF-kappa B signaling pathway	30	0.00017289753078
+Viral protein interaction with cytokine and cytokine receptor	29	0.000206590580796
+Cell adhesion molecules	39	0.000222226203972
+Herpes simplex virus 1 infection	93	0.000320384723201
+MAPK signaling pathway	60	0.001015188595802
+Allograft rejection	15	0.001142176156052
+Toxoplasmosis	29	0.001335037676732
+FoxO signaling pathway	32	0.001579256453022
+Th17 cell differentiation	28	0.001579256453022
+Transcriptional misregulation in cancer	42	0.001610614187928
+TNF signaling pathway	28	0.003724740708381
+Lipid and atherosclerosis	44	0.00411009825328
+Toll-like receptor signaling pathway	26	0.004330287305699
+Osteoclast differentiation	30	0.004330287305699
+Chemokine signaling pathway	40	0.004884210279316
+Leishmaniasis	21	0.005162897930807
+Antigen processing and presentation	21	0.005945014283026
+Amoebiasis	25	0.006545458363961
+Legionellosis	17	0.006731710249378
+African trypanosomiasis	13	0.007027497529796
+Thyroid cancer	13	0.007027497529796
+Graft-versus-host disease	14	0.007027497529796
+Small cell lung cancer	23	0.007257818058895
+IL-17 signaling pathway	23	0.009560623638032
+Th1 and Th2 cell differentiation	22	0.016673914695444
+Pathways in cancer	85	0.018803030154782
+Endometrial cancer	16	0.018803030154782
+Autoimmune thyroid disease	15	0.020454211181412
+Human T-cell leukemia virus 1 infection	41	0.027946226479666
+Epstein-Barr virus infection	38	0.028511218400369
+Apoptosis	28	0.030128144509645
+TGF-beta signaling pathway	23	0.047611367524004
